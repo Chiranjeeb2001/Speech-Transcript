@@ -1,0 +1,58 @@
+/* Navbar.css */
+
+.navbar {
+  background-color: #333;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px; /* Increased height for better visibility on small screens */
+  transition: all 0.3s ease; /* Add transition for smooth animation */
+}
+
+.logo {
+  width: 50px;
+  transition: all 0.3s ease; /* Add transition for smooth animation */
+}
+
+.nav-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  transition: all 0.3s ease; /* Add transition for smooth animation */
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+  transition: all 0.3s ease; /* Add transition for smooth animation */
+}
+
+.nav-link:hover {
+  color: #ccc;
+}
+
+.signout-btn {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease; /* Add transition for smooth animation */
+}
+
+.signout-btn:hover {
+  color: #ccc;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    width: 80px;
+  }
+
+  .nav-link {
+    margin-right: 10px;
+  }
+}
