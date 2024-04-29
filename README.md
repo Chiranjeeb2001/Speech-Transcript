@@ -1,5 +1,7 @@
 Speech Transcript Web Application Documentation
 
+<a href="https://speechtranscript.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+
 Introduction
 The Speech Transcript web application allows users to convert speech into text and organize the transcribed text into an Excel file. It provides a user-friendly interface for speech recognition, saving transcribed text to Excel, and managing the saved data.
 
@@ -49,3 +51,9 @@ External APIs and Libraries
 -> React Router: For routing and navigation within the application.
 -> React Bootstrap: Provides pre-designed components and styles for building responsive web interfaces.
 -> Font Awesome: Provides icons used in the user interface.
+
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through below handles.
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/chiranjeebmohanta/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
